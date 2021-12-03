@@ -5,6 +5,7 @@
 4. Capstone Challenge
 
 
-
+## Assignments
+* [XML - Parsing](https://github.com/AhmedAtya74/Service-Oriented-Architecture)
 
 
