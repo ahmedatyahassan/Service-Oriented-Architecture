@@ -1,5 +1,5 @@
 
-## How to Determine the app's information needs
+## How to Determine the app's information needs for sharing
 We want to have all the application’s saved data stored remotely, so that users can share information across their devices. In order to do this, we will have to decide what data we want stored and how we want to store it for the app to continue functioning properly.
 
 Review the application provided. While you review the code, determine which classes need their variables to be stored remotely.
