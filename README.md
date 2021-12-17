@@ -7,5 +7,5 @@
 
 ## Assignments
 * [XML - Parsing](https://github.com/AhmedAtya74/Service-Oriented-Architecture)
-
+* [JSON - Parsing](https://github.com/AhmedAtya74/JSON-Parsing)
 
