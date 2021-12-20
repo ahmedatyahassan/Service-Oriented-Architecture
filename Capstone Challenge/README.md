@@ -1,0 +1,1 @@
+In the previous modules, you determined an Android application’s information needs when storing data remotely. Now, in the final module of the course, you will fully connect the application to a remote Elasticsearch server to allow users to share information across their devices. After completing this task, you will be ready to complete the final exam.
