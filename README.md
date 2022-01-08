@@ -6,6 +6,7 @@
 
 
 ## Assignments
-* [XML - Parsing](https://github.com/AhmedAtya74/XML-Parsing)
-* [JSON - Parsing](https://github.com/AhmedAtya74/JSON-Parsing)
+* [XML Parsing](https://github.com/AhmedAtya74/XML-Parsing)
+* [JSON Parsing](https://github.com/AhmedAtya74/JSON-Parsing)
+* [RESTful Web Services](https://github.com/AhmedAtya74/RESTful-Services)
 
